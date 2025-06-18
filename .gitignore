@@ -1,0 +1,4 @@
+langtons_ant
+*.o
+*.a
+*.dSYM
